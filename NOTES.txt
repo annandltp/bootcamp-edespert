@@ -1,0 +1,23 @@
+Cara push file ke github menggunakan version
+
+#v1
+- git init
+- git add .
+- git commit -m "first commit"
+- git branch -M main
+- git push -u origin main
+- git tag v1.0.0
+- git push origin v1.0.0
+
+#v2
+- git init
+- git add .
+- git commit -m "first commit"
+- git branch -M main
+- git push -u origin main
+- git tag v2.0.0
+- git push origin v2.0.0
+
+#delete
+- git push --delete origin v2.0.0
+- git tag --delete v2.0.0

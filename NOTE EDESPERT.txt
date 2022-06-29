@@ -1,0 +1,15 @@
+1. Untuk recordingnya kelas bisa diakses di sini
+
+https://youtube.com/playlist?list=PL6Hec7zwKvP8LJNJP91RSM1wySrlI5_Q6
+
+2. Untuk akses PPT materi yg sudah berjalan bisa akses link di sini
+
+https://drive.google.com/drive/folders/1YvlQHTGLNc_S5kc0WARJN0Mizh1r9n3N?usp=sharing
+
+3. Untuk pengumpulan tugas bisa diupload di github/ gdrive masing kemudian linknya diupload di grup dengan format 
+Nama_Tugas1 terus diikuti linknya.
+
+Waktu pengerjaannya seminggu setelah tugas diberikan
+
+#question
+- kenapa benchmark di saya tidak berjalan
